@@ -17,7 +17,6 @@ God Converter is a command-line tool that converts documents into PDF format bef
 
 ---
 #### Conversion processing before upload:
-https://softwareartistry.slack.com/files/U097KNY0RD1/F098EBXMSAF/image.png
 
 
 #### Sample files on MinIO (converted to pdf):
