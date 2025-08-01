@@ -1,6 +1,6 @@
 # God Converter
 
-God Converter is a command-line tool that converts documents from a MinIO bucket into PDF format using LibreOffice. It is designed for automation, backend workflows, and integration with data pipelines.
+God Converter is a command-line tool that converts documents into PDF format before being uploaded to MinIO using LibreOffice. It is designed for automation, backend workflows, and integration with data pipelines.
 
 ---
 
