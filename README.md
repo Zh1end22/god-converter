@@ -17,11 +17,10 @@ God Converter is a command-line tool that converts documents from a MinIO bucket
 
 ---
 
-### Just clone it
-
 #### Sample files on MinIO (converted to pdf):
 <img width="1348" height="614" alt="Screenshot_20250801_163259" src="https://github.com/user-attachments/assets/c6bc1736-6db2-4327-85d6-41c911754880" />
 
+### Just clone it
 
 ```bash
 git clone https://github.com/Zh1end22/god-converter.git
